@@ -1,5 +1,5 @@
 #  About Me:
-I’m currently developing on Wisper<br><br>I’m actively expanding my skills in Framer Motion, Babel, typescript, Vue, etc<br><br>I'm looking for collaborate on my recent project named as 'ProjectFlow'<br><br>Explore all of my project/work at portfolio https://harshad-portfolio-dev.vercel.app/<br><br>Free to ask me about react, JS, Node, Express<br><br>Here you can reach me harshadnikam7516@outlook.com<br><br>Enjoys Codes and plays Games at my free time
+I’m currently developing on Wisper<br><br>I’m actively expanding my skills in Framer Motion, Babel, typescript, Vue, etc<br><br>I'm looking for collaborate on my recent project named as 'ProjectFlow'<br><br>Explore all of my project/work at portfolio https://harshadnikam.me/<br><br>Free to ask me about react, JS, Node, Express<br><br>Here you can reach me harshadnikam7516@outlook.com<br><br>Enjoys Codes and plays Games at my free time
 
 
 ##  Socials:

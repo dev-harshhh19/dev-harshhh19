@@ -1,22 +1,92 @@
-#  About Me:
-I’m currently developing on Wisper<br><br>I’m actively expanding my skills in Framer Motion, Babel, typescript, Vue, etc<br><br>I'm looking for collaborate on my recent project named as 'ProjectFlow'<br><br>Explore all of my project/work at portfolio https://harshadnikam.me/<br><br>Free to ask me about react, JS, Node, Express<br><br>Here you can reach me harshadnikam7516@outlook.com<br><br>Enjoys Codes and plays Games at my free time
+# 👋 Hey, I’m Harshad!
+
+I love building cool stuff on the web,  and gaming when I'm not coding 😎
+
+# About Me
+
+* 🔧 I’m currently developing **Wisper**
+* 🕶️ *Wisper is an anonymous, freedom-of-speech focused whisper-based platform (still under development)*
+* 🧠 Always learning & improving, currently diving deeper into **React** and **Tailwind CSS**
+* 🤝 Open to collaboration & open-source work
+* 🌐 Check all my work here: **[https://harshadnikam.me](https://harshadnikam.me)**
+* 💬 Free to ask me about **React, JS, Node, Express, Mongo, Supabase, Git, JWT**
+* 🎮 Enjoy coding, motorsports games & gaming during free time
+
+ 
+
+<div align="center">
+
+<!-- Visitor Badge -->
+
+<a href="https://visitorbadge.io/status?path=dev-harshhh19">
+  <img src="https://api.visitorbadge.io/api/visitors?path=dev-harshhh19&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+</a>  
+
+<br>
+
+<!-- Socials (Black Theme) -->
+
+<a href="https://www.linkedin.com/in/harshad-nikam06/">
+ <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="http://harshadnikam.me/">
+ <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Firefox&logoColor=ffffff" />
+</a>
+
+<a href="mailto:harshadnikam7516@outlook.com">
+ <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://twitter.com/not_harshad_19">
+ <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=ffffff" />
+</a>
+
+</div>
 
 
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.harshhh19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshad-nikam06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshadnikam7516@outlook.com) 
+# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
-#  Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-harshhh19&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dev-harshhh19&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-harshhh19&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=8CC84B"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C" alt="C">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#">
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dev-harshhh19&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dev.harshhh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/HarshadNikam388) 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#  GitHub Stats
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=dev-harshhh19&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-harshhh19&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
+ 
+
+# 💰 Support My Work
+
+<div align="center">
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=%23ffdd00)](https://buymeacoffee.com/dev.harshhh)
+[![PayPal](https://img.shields.io/badge/PayPal-000000?style=for-the-badge\&logo=paypal\&logoColor=%2300457C)](https://paypal.me/HarshadNikam388)
+[![Sponsor](https://img.shields.io/badge/Sponsor-000000?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/dev-harshhh19)
+
+</div>

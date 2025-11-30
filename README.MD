@@ -53,9 +53,7 @@ I love building cool stuff on the web,  and gaming when I'm not coding 😎
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-harshhh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dev-harshhh19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-harshhh19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://stats.hyo.dev/stats/dev-harshhh19"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=dev-harshhh19" width="600" /></a>
 </div>
 
  

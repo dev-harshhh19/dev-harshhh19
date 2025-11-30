@@ -56,7 +56,7 @@ I love building cool stuff on the web,  and gaming when I'm not coding 😎
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=dev-harshhh19&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-harshhh19&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-harshhh19&show_icons=true&theme=dark&locale=en&layout=compact" alt="dev-harshhh19" /></p>
 
 </div>
 

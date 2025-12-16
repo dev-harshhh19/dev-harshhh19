@@ -8,7 +8,7 @@ I love building cool stuff on the web,  and gaming when I'm not coding 😎
 * 🕶️ *Wisper is an anonymous, freedom-of-speech focused whisper-based platform (still under development)*
 * 🧠 Always learning & improving, currently diving deeper into **React** and **Tailwind CSS**
 * 🤝 Open to collaboration & open-source work
-* 🌐 Check all my work here: **[https://harshadnikam.me](https://harshadnikam.me)**
+* 🌐 Check all my work here: **[harshadnikam.me](https://harshadnikam.me)**
 * 💬 Free to ask me about **React, JS, Node, Express, Mongo, Supabase, Git, JWT**
 * 🎮 Enjoy coding, motorsports games & gaming during free time
 

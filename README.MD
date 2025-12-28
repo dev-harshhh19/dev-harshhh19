@@ -54,7 +54,6 @@ I love building cool stuff on the web,  and gaming when I'm not coding 😎
 
 # GitHub Stats:
 ![dev-harshhh19's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=dev-harshhh19&type=languages&theme=github&chart=bars)
-![dev-harshhh19's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=dev-harshhh19&type=contributions&theme=github)
 </div>
 
  
